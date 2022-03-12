@@ -2,11 +2,11 @@
 
 ### This repository focuses on making Modal Bottom Sheet Like Instagram in android with kotlin:
 
-### 1. Create an empty project in android studio
+#### 1. Create an empty project in android studio
 
-### 2. Create an empty fragment named as ``` ModalBottomSheet ``` in that project
+#### 2. Create an empty fragment named as ``` ModalBottomSheet ``` in that project
 
-### 3. Add this code in ``` ModalBottomSheet.kt ``` file (Fragment kotlin file)
+#### 3. Add this code in ``` ModalBottomSheet.kt ``` file (Fragment kotlin file)
 
 ```KOTLIN
 package com.example.bottomSheetApp
@@ -77,7 +77,7 @@ import com.google.android.material.bottomsheet.BottomSheetDialogFragment
 
 ```
 
-### 4. Add this code in ``` fragment_modal_bottom_sheet.xml ``` (Fragment XML File)
+#### 4. Add this code in ``` fragment_modal_bottom_sheet.xml ``` (Fragment XML File)
 
 ```XML
 <?xml version="1.0" encoding="utf-8"?>
@@ -211,7 +211,7 @@ import com.google.android.material.bottomsheet.BottomSheetDialogFragment
 
 ```
 
-### 5. Add this code in ``` MainActivity.kt ```
+#### 5. Add this code in ``` MainActivity.kt ```
 
 ```KOTLIN
 package com.example.bottomSheetApp
@@ -237,7 +237,7 @@ class MainActivity : AppCompatActivity() {
 
 ````
 
-### 6. Add this code in ``` activity_main.xml ```
+#### 6. Add this code in ``` activity_main.xml ```
 
 ```XML
 <?xml version="1.0" encoding="utf-8"?>
