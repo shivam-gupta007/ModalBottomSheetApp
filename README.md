@@ -2,6 +2,8 @@
 
 ### This repository focuses on making Modal Bottom Sheet Like Instagram in android with kotlin:
 
+![IMG_20220311_233011](https://user-images.githubusercontent.com/83108424/158026669-21682898-d3e3-4919-8b1e-c7789b4400d6.jpg)
+
 #### 1. Create an empty project in android studio
 
 #### 2. Create an empty fragment named as ``` ModalBottomSheet ``` in that project
